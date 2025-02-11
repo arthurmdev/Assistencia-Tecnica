@@ -9,12 +9,13 @@
 Projeto básico de site para uma assistência técnica de celulares.
 
  ## 🖥️ Screenshot - Desktop
+![Desktop Screenshot](screenshot-desktop.png)
 
 ## 📱 Screenshot - Mobile
-
+![Mobile Screenshot](screenshot-mobile.png)
 ## 🚀 Tecnologias usadas
-- HTML5
-- CSS3
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 
 
