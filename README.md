@@ -6,15 +6,11 @@
   
   📄 style.css → Estilos
 </p>
-# Menezes Smartphones 📱
-
 Projeto básico de site para uma assistência técnica de celulares.
 
-## 🖥️ Screenshot - Desktop
-![Desktop Screenshot](screenshot-desktop.png)
+ ## 🖥️ Screenshot - Desktop
 
 ## 📱 Screenshot - Mobile
-![Mobile Screenshot](screenshot-mobile.png)
 
 ## 🚀 Tecnologias usadas
 - HTML5
